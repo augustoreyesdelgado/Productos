@@ -22,3 +22,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0045790625002204
 https://www.sciencedirect.com/science/article/abs/pii/S0893608024002090
 https://www.sciencedirect.com/science/article/abs/pii/S1046202324001531
 https://www.sciencedirect.com/science/article/abs/pii/S0169260725004973
+https://www.sciencedirect.com/science/article/abs/pii/S0010482525002252
+https://www.sciencedirect.com/science/article/abs/pii/S0010482524011855
+https://link.springer.com/chapter/10.1007/978-3-031-65990-4_6
+https://dl.acm.org/doi/10.1145/3706890.3706998
